@@ -7,6 +7,8 @@ for (let index = 0; index < calis.length; index ++){
 }
 
 let promedio = sumaCalis / calis.length
+    console.log(promedio);
+    
 
 if( promedio >= 8){
 console.log ('Ya la hiciste bro')
